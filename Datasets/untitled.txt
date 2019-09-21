@@ -1,0 +1,23 @@
+TEAM,PLAYER,POSITION
+FCB,Messi,Forward
+FCB,Suarez,Forward
+FCB,Grizman,Forward
+FCB,De Jong,Midfielder
+FCB,TersTagan,Goalkeeper
+FCB,Authur,Midfielder
+FCB,Arthur,Midfielder
+RM,Hazard,Forward
+RM,Isco,Forward
+RM,Binzema,Forward
+RM,Modrich,Midfielder
+RM,Toni Kroos,Midfielder
+PSG,Mbappe,Forward
+BM,Coutinho,Forward
+BM,Pavard,Defender
+BM,Lewandolski,Forward
+BM,Nuer,Goalkeeper
+RM,Isco,Forward
+FCB,De Jong,Midfielder
+FCB,TersTagan,Goalkeeper
+PSG,Mbappe,Forward
+BM,Coutinho,Forward
